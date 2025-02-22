@@ -30,7 +30,8 @@ body {
     font-weight: bold;
     cursor: pointer;
     user-select: none;
-    background-size: 400px 400px; /* Size of the full image */
+    background-size: 400px 400px; /* Match the resized image size */
+    background-repeat: no-repeat;
 }
 
 .tile.empty {
