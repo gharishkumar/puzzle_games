@@ -30,6 +30,7 @@ body {
     font-weight: bold;
     cursor: pointer;
     user-select: none;
+    background-size: 400px 400px; /* Size of the full image */
 }
 
 .tile.empty {
